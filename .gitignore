@@ -130,4 +130,5 @@ dmypy.json
 
 penv/
 
+#folder
 include/state.json
